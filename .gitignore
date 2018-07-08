@@ -1,0 +1,4 @@
+.idea/
+*.py[c,d,o]
+__pycache__/
+
